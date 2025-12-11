@@ -65,8 +65,9 @@ Uma **aplicação web** centralizada, responsiva e leve que:
 
 * 📄 Documentação do Projeto: # [https://github.com/T20Web]
 * 🎨 Repositório Frontend: # [[https://github.com/T20Web/Frontend](https://github.com/T20Web/Frontend-T20Web)]
-* ⚙️ Repositório Backend: # [[https://github.com/T20Web/Backend](https://github.com/T20Web/Backend-T20Web)]
-* 🌐 Deploy: #
+* ⚙️ Repositório Backend: # [[https://github.com/T20Web/Backend](https://github.com/LMSLima/Backend-T20Web)]
+* 🌐 Deploy-Frontend: # [https://frontend-t20-web-flge.vercel.app/](https://frontend-t20-web-flge.vercel.app/)]
+* 🌐 Deploy-Backend: # [https://backend-t20web-lnil.onrender.com/](https://backend-t20web-lnil.onrender.com/)]
 
 ---
 
